@@ -31,7 +31,7 @@ This project serves as a beginner-friendly demonstration of game development usi
 ## Screenshots
 ![snake game](https://github.com/Hafeez-hm/snake-game-csea/assets/130774028/55c20299-b0eb-4019-9dd3-03d60a22b8e9)
 
-## Credits
+## Techstack
 
 - This project is inspired by the classic Snake game.
 - Built with HTML, CSS, and JavaScript.
